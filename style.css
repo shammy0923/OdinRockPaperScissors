@@ -1,0 +1,15 @@
+
+
+.buttons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1vw;
+    height: 100%;
+}
+
+.buttons > button {
+    height: 5vh;
+    width: 5vw;
+    font-size: 2vh;
+}
